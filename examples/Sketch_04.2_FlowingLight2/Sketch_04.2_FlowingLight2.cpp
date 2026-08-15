@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : FlowingLight2
   Description : More cool flowing light.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2024/07/01
 **********************************************************************/
 

@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : SerialPrinter
   Description : Use UART send some data to PC, and show them on serial monitor.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2022/10/20
 **********************************************************************/
 

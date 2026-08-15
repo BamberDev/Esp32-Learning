@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : Alertor
   Description : Control passive buzzer by button.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2024/07/01
 **********************************************************************/
 

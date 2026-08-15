@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : Doorbell
   Description : Control active buzzer by button.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2022/10/20
 **********************************************************************/
 

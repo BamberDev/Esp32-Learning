@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : SoftColorfulLight
   Description : Colorful light with gradually changing color.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2024/07/01
 **********************************************************************/
 

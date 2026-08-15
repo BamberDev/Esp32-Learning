@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : BreathingLight
   Description : Make led light fade in and out, just like breathing.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2024/07/01
 **********************************************************************/
 

@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : ColorfulLight
   Description : Use RGBLED to show random color.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2024/07/01
 **********************************************************************/
 

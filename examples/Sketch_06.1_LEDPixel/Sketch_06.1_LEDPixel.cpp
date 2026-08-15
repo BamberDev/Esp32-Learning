@@ -2,7 +2,7 @@
   Filename    : NeoPixel
   Description : Basic usage of LEDPixel, 
                 Make the strip light up in different colors gradually.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2022/10/20
 **********************************************************************/
 

@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : FlowingLight
   Description : Using ledbar to demonstrate flowing lamp.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2022/10/20
 **********************************************************************/
 

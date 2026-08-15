@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : TableLamp
   Description : Control led by button.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2022/10/19
 **********************************************************************/
 

@@ -1,7 +1,7 @@
 /**********************************************************************
   Filename    : SerialRW
   Description : Use UART read and write data between ESP32 and PC.
-  Auther      : www.freenove.com
+  Author      : www.freenove.com
   Modification: 2026/01/12
 **********************************************************************/
 
