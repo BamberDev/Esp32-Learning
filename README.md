@@ -24,6 +24,10 @@ I've always wanted to learn microcontroller programming - ESP32 in particular - 
 └── platformio.ini       # PlatformIO configuration
 ```
 
+## Credits
+
+All sketches are from the official [Freenove Ultimate Starter Kit for ESP32-S3](https://docs.freenove.com/projects/fnk0082/en/latest/)
+
 ## Topics
 
 | Topic                      | Sketches                                         |
